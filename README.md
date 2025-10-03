@@ -19,5 +19,5 @@ A small Python project demonstrating the use of the [`pynput`](https://pypi.org/
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/yourusername/KeyLogger.git
-cd KeyLogger
+git clone https://github.com/lancedabre/Key-Logger.git
+cd Key-Logger
